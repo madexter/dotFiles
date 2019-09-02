@@ -1,6 +1,7 @@
 #!/usr/bin/bash
 
 usage() {
+    echo ""
     echo "URL Analyzer"
     echo "./parseurl.sh URL1 URL2 ..."
 }
